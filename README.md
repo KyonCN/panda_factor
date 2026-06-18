@@ -159,7 +159,7 @@ factor = panda_data.get_factor_by_name(factor_name="VH03cc651", start_date='2024
 ```
 
 ## 加群答疑（备注【开源】更快通过）
-![PandaAI 交流群](https://zynf-test.oss-cn-shanghai.aliyuncs.com/github/wechat_2025-06-27_102633_615.png)
+![PandaAI 交流群](https://pandaai.tos-cn-shanghai.volces.com/wechat/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260618162221_86_43.jpg)
 
 
 ## 贡献
